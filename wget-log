@@ -1,0 +1,11 @@
+--2022-01-09 15:53:46--  https://stock.adobe.com/in/search?k=devops
+Resolving stock.adobe.com (stock.adobe.com)... 151.101.66.49, 151.101.194.49, 151.101.130.49, ...
+Connecting to stock.adobe.com (stock.adobe.com)|151.101.66.49|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: unspecified [text/html]
+Saving to: ‘search?k=devops’
+
+search?k=devops                              [<=>                                                                                ]       0  --.-KB/s               search?k=devops                              [ <=>                                                                               ] 103.12K   375KB/s               search?k=devops                              [  <=>                                                                              ] 666.71K  1.40MB/s    in 0.5s    
+
+2022-01-09 15:53:47 (1.40 MB/s) - ‘search?k=devops’ saved [682711]
+
